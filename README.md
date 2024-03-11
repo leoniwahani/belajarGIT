@@ -8,4 +8,7 @@
 7. Tugas-finalProject
 
 # Daftar perintah GiT
-...
+git branch "nama branch"
+git checkout "nama branch"
+git add .
+git commit -m "bebas"
